@@ -51,15 +51,3 @@ My personal portfolio, showcasing my development work, technical interests, and 
   <img src="https://streak-stats.demolab.com?user=monamijer&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-### Let's Connect
-
-I'm open to meaningful conversations, collaboration, and opportunities to learn and contribute.
-
-- 🌐 **Portfolio:** [monamijer.github.io/portfolio](https://monamijer.github.io/portfolio)
-- 💻 **GitHub:** [@monamijer](https://github.com/monamijer)
-
----
-
-<p align="center">
-  <i>Learning continuously. Building consistently. Improving through practice.</i>
-</p>
