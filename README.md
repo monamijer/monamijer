@@ -18,7 +18,7 @@
 ---
 
 ### 01 / ABOUT
-Hola, 
+Hola, 👋 
 I'm a developer interested in building thoughtful, functional, and maintainable web applications.
 
 I approach development as a continuous process of understanding problems, exploring solutions, and improving through practical work.
